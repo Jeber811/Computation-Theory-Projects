@@ -1,0 +1,10 @@
+Machine #1:
+aaab: YES
+ba: NO
+b: NO
+
+Machine #2:
+a: YES
+aa: YES
+aaaaaaaa: DOES NOT HALT IN 10 STEPS
+
