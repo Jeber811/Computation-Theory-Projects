@@ -1,7 +1,8 @@
 // Jake Weber
-// Professor Arup Guha
-// COT 4210
 // 8/28/24
+
+// Given a DFA, and several input strings to that DFA, determine whether or not each of the strings
+// is in the language described by the DFA.
 
 import java.util.Scanner;
 
