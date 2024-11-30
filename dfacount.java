@@ -1,7 +1,9 @@
 // Jake Weber
-// COT 4210
-// P5
 // 11/26/24
+
+// Given a description of a DFA and an integer k, determine the number of strings of length k that
+// the DFA accepts. Since this number might be very large, you are to just provide your answer
+// mod 109 + 7. 
 
 import java.util.Scanner;
 import java.lang.Math;
