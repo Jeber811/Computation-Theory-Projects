@@ -1,0 +1,16 @@
+DFA #1:
+abba is not in L
+ba is in L
+baa is not in L
+baaabaab is in L
+babbbba is not in L
+
+DFA #2:
+a is not in L
+bababa is in L
+bababab is not in L
+bbaaabb is not in L
+abbabbbaba is in L
+abbababb is not in L
+bab is not in L
+
