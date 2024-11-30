@@ -1,6 +1,13 @@
 // Jake Weber
 // 10/20/2024
 
+// Given a grammar in Chomsky Normal Form and several strings, determine whether or not each
+// of the strings given is part of the grammar described.
+
+// To simplify matters, the alphabet for each problem will be the lowercase letters, and the set of
+// variables will be all capital letters. The start symbol will always be S. Epsilon, the empty string,
+// will be represented by the character ‘@’.
+
 import java.util.*;
 
 public class chomsky {
