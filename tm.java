@@ -1,3 +1,10 @@
+// Jake Weber
+// 11/3/24
+
+// Given a description of a Turing Machine and a string, simulate the string running on the Turing
+// Machine for a given number of steps. At the end of the simulation, you are to determine if the
+// machine accepted the string, rejected the string, or did not halt in the required number of steps.
+
 import java.util.*;
 
 public class tm {
